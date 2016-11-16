@@ -5,6 +5,5 @@ Just a simple way to create a concatAll for arrays
 ```
 var crazyData = [1, 2, 3, [4,5], 6, 7, 8, [9,], [], [10, [11], [12]], 13, 14];
 
-var result = exchanges.concatAll();
+var result = crazyData.concatAll();
 ```
-
