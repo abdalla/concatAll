@@ -1,10 +1,10 @@
-# concat-all
-Array helper to concatAll
+# concatAll
+Array helper to concat arrays - converting a multidimensional array into a single dimensional array
 
 ### Installation
 To install the stable version:
 ```
-npm install concat-all --save
+npm install concatAll --save
 ```
 
 ### How to use

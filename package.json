@@ -1,7 +1,7 @@
 {
-  "name": "concat-all",
+  "name": "concatAll",
   "version": "1.0.0",
-  "description": "Array helper to concat arrays",
+  "description": "Array helper to concat arrays - converting a multidimensional array into a single dimensional array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
