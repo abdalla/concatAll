@@ -1,5 +1,5 @@
 # concatAll
-Array helper to concat arrays - converting a multidimensional array into a single dimensional array
+Array helper to concat arrays - convert a multidimensional array into a single dimensional array
 
 ### Installation
 To install the stable version:
