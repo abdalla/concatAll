@@ -1,0 +1,25 @@
+{
+  "name": "concat-all",
+  "version": "1.0.0",
+  "description": "Array helper to concat arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdalla/concatAll.git"
+  },
+  "keywords": [
+    "array",
+    "concatAll",
+    "concat",
+    "all"
+  ],
+  "author": "Carlos Abdalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdalla/concatAll/issues"
+  },
+  "homepage": "https://github.com/abdalla/concatAll#readme"
+}
