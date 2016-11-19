@@ -1,6 +1,6 @@
 {
   "name": "concatAll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array helper to concat arrays - convert a multidimensional array into a single dimensional array",
   "main": "index.js",
   "scripts": {
