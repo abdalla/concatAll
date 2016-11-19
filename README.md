@@ -10,8 +10,6 @@ npm install concatAll --save
 ### How to use
 Pretty simple
 
-Import concat-all
-
 ```
 let concatAll  = require('concatAll');
 ```
