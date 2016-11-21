@@ -1,3 +1,4 @@
+![Travis Build](https://travis-ci.org/abdalla/concatAll.svg?branch=master)
 # concatAll
 Array helper to concat arrays - convert a multidimensional array into a single dimensional array
 
