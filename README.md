@@ -1,3 +1,5 @@
+[![Travis Build](https://travis-ci.org/abdalla/concatAll.svg?branch=master)](https://travis-ci.org/abdalla/concatAll)
+[![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 # concatAll
 Array helper to concat arrays - convert a multidimensional array into a single dimensional array
 
