@@ -13,12 +13,12 @@ npm install concatAll --save
 Pretty simple
 
 ```
-let concatAll  = require('concatAll');
+require('concatAll');
 ```
 
 ### Example
 ```
-let concatAll  = require('concatAll');
+require('concatAll');
 
 let crazyData = [1, 2, 3, [4,5], 6, 7, 8, [9,], [], [10, [11], [12]], 13, 14];
 
@@ -27,5 +27,4 @@ let result = crazyData.concatAll();
 console.log(result);
 
 //=> result = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-
 ```
