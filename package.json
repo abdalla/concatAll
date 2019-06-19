@@ -22,6 +22,9 @@
     "url": "https://github.com/abdalla/concatAll/issues"
   },
   "homepage": "https://github.com/abdalla/concatAll#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-polyfill": "^6.16.0",
