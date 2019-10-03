@@ -4,7 +4,7 @@
   "description": "Array helper to concat arrays - convert a multidimensional array into a single dimensional array",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require babel-polyfill --compilers js:babel-register"
+    "test": "mocha --require babel-polyfill --require babel-core/register"
   },
   "repository": {
     "type": "git",
@@ -26,10 +26,10 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
-    "babel": "^6.5.2",
-    "babel-polyfill": "^6.16.0",
-    "babel-preset-latest": "^6.16.0",
-    "babel-register": "^6.18.0",
-    "mocha": "^3.1.2"
+    "babel": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "mocha": "^6.2.1"
   }
 }
